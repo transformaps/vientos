@@ -1,0 +1,40 @@
+# Information Architecture
+
+
+### Index
+
+##### Data Models
+
+- [Node~¨^~~(http...)
+
+
+### Nodo
+
+- ID
+- Nombre
+- Logotipo
+- Categorías
+- Ubicación
+- Nombre de Barrio
+- Etiquetas
+- Tipos de Colaboración
+- Tipo de Proyecto
+- Descripción Breve
+- Descripción Completa
+- Dirección
+  - Calle
+  - Número
+  - Interior
+  - Colonia
+  - Delegación / Localidad
+  - Barrio (usuario escribe lo que quiere)
+  - C.P.
+- Colaboraciones
+- Narrativa Audiovisual (por desglosar)
+- Enlaces
+- Lista de Interacciones posibles (para la barra)
+
+
+
+
+# Arquitectura de la Información
